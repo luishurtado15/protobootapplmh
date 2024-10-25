@@ -22,7 +22,7 @@ public class ProtobootappApplication {
     @GetMapping("/")
     public String index() {
         return String.format("Bienvenido Campeón@ ! Esta aplicación ayuda a elevar números cualquiera a sus potencias. " +
-                "ATT: LMH");
+                "ATT: LMH V1");
     }    
 
     //Se ejecuta con http://localhost:8080/hola o http://localhost:8080/hola?nombre=John
