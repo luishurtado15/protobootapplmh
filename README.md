@@ -3,12 +3,15 @@
 Taller de CI/CD-
 
 Luis Miguel Hurtado Cova
+
 •	La URL del repositorio donde se guarda el código de la Proof of Concept (PoC).
 
 https://github.com/luishurtado15/protobootapplmh/tree/master
 
 •	Las URLs de los entornos donde se despliega la Proof of Concept (PoC).
-CiDEdeDEV
+
+DEV
+
 http://protoboardapplmh-env.eba-tpfcjbpj.us-east-1.elasticbeanstalk.com/
 
 PDN
@@ -26,6 +29,7 @@ https://github.com/luishurtado15/protobootapplmh
 
 •	Proyecto descargado en local utilizando el IDE Intellij
 
+<div align="left"><img src="./images/image1.png" width="500"/></div>
 
 
 •	Archivo maven.yml
@@ -34,7 +38,7 @@ https://github.com/luishurtado15/protobootapplmh
 
 •	Pruebas en CI/CD
 
-Exitoso
+•	Exitoso
 
 
 
@@ -114,7 +118,7 @@ Exitoso
 
 
 
-*Visualizar con Blue Ocen
+•	Visualizar con Blue Ocen
 
 
 
@@ -123,7 +127,7 @@ Exitoso
 
 
 3.	CI/CD con AWS
-      *Despliegue con el pipeline exitoso
+ •	Despliegue con el pipeline exitoso
 
 
 
@@ -144,18 +148,18 @@ Exitoso
 
 
 
-* Cambiar Parametro del CheckStyle
+•	Cambiar Parametro del CheckStyle
 
 
-*URL actuator/info
-
-
-
-*URL actuator/health
+•	URL actuator/info
 
 
 
-*URL actuactor/metrics
+•	URL actuator/health
+
+
+
+•	URL actuactor/metrics
 
 
 
